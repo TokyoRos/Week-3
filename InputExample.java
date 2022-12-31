@@ -1,5 +1,3 @@
-package myproject;
-
 import java.util.Scanner;
 public class InputExample {
 	static Scanner userinput = new Scanner(System.in);

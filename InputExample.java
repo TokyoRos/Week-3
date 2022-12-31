@@ -1,7 +1,7 @@
 package myproject;
 
 import java.util.Scanner;
-public class MyClass {
+public class InputExample {
 	static Scanner userinput = new Scanner(System.in);
 	public static void main(String[] args) {
 		int x;

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HelloWorld {
+public class IOExample {
 	static Scanner userinput = new Scanner(System.in);
 	public static void main(String[] args) {
 		String s;  // variable type string

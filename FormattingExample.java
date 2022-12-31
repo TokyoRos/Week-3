@@ -1,6 +1,6 @@
 import java.text.NumberFormat;
 import java.util.Scanner;
-public class MyClass {
+public class FormattingExample {
 	static Scanner userinput = new Scanner(System.in);
 	public static void main(String[] args) {
 		int n = 56; 
